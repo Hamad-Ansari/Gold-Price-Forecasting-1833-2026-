@@ -1,0 +1,8 @@
+Model,MAE,RMSE,MAPE,Rank
+ARIMA(2-1-1),,,,7
+Prophet,,,,6
+Prophet+Inflation,,,,5
+Random Forest,,,,4
+XGBoost,,,,3
+LSTM,,,,2
+Ensemble (Stack),,,,1
